@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
-function HistoryPage() {
+function foodPage() {
   const [foodData, setFoodData] = useState([]);
 
   useEffect(() => {
@@ -20,4 +20,4 @@ function HistoryPage() {
   );
 }
 
-export default HistoryPage;
+export default foodPage;
