@@ -2,8 +2,10 @@
 const mongoose = require('mongoose');
 
 const FoodSchema = new mongoose.Schema({
-  title: String,
-  description: String,
+  title: mongoose.SchemaTypes.string,
+  description: mongoose.SchemaTypes.string,
+  picture: mongoose.SchemaTypes.string,
+  location: mongoose.SchemaTypes.string,
   // Add other fields relevant to history
 });
 
