@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# MERN Stack App | Corn Island Hub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## An In-Progress independent project, a MERN Stack Application used as a travel hub for the Corn Islands, Nicaragua, Central America.
 
 ## Available Scripts
 
